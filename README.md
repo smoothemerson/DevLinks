@@ -2,7 +2,7 @@
 
 <p align="center">
 Exclusive and free program, promoted by Rocketseat for teaching WEB technologies. <br/>
-<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Study this project in video format by clicking here.</a>
+<a href="https://www.rocketseat.com.br/discover">Study this project in video format by clicking here.</a>
 </p>
 
 <p align="center">
