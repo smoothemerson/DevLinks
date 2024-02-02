@@ -35,7 +35,7 @@ This project was developed with the following technologies:
 
 DevLinks is a link aggregator to use as an online business card.
 
-- [Access the finished project, online](https://aoba43.github.io/Discover/)
+- [Access the finished project, online](https://smoothemerson.github.io/Discover/)
 
 - [Attend classes](https://www.rocketseat.com.br/discover)
 
