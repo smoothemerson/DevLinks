@@ -1,11 +1,6 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
-Exclusive and free program, promoted by Rocketseat for teaching WEB technologies. <br/>
-<a href="https://www.rocketseat.com.br/discover">Study this project in video format by clicking here.</a>
-</p>
-
-<p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -32,6 +27,8 @@ This project was developed with the following technologies:
 - Figma
 
 ## 💻 Project
+
+Exclusive and free program, promoted by Rocketseat for teaching WEB technologies.
 
 DevLinks is a link aggregator to use as an online business card.
 
