@@ -5,6 +5,8 @@
 }
 
 :root {
+  font-size: 62.5%;
+
   --text-color: white;
   --bg-url: url(./assets/bg-mobile.jpg);
   --stroke-color: rgba(255, 255, 255, 0.5);
@@ -26,6 +28,9 @@
 
 body {
   background: var(--bg-url) top center/cover;
+
+  font-size: 1.6rem;
+
   height: 100vh;
 }
 
@@ -36,36 +41,36 @@ body * {
 
 #container {
   width: 100%;
-  max-width: 588px;
-  margin: 56px auto 0px;
-  padding: 0 24px;
+  max-width: 58.8rem;
+  margin: 5.6rem auto 0;
+  padding: 0 2.4rem;
 }
 
 #profile {
   text-align: center;
-  padding: 24px;
+  padding: 2.4rem;
 }
 
 #profile img {
-  width: 112px;
+  width: 11.2rem;
 }
 
 #profile p {
   font-weight: 500;
-  line-height: 24px;
-  margin-top: 8px;
+  line-height: 2.4rem;
+  margin-top: 0.8rem;
 }
 
 #switch {
   position: relative;
-  width: 64px;
+  width: 6.4rem;
 
-  margin: 4px auto;
+  margin: 0.4rem auto;
 }
 
 #switch button {
-  width: 32px;
-  height: 32px;
+  width: 3.2rem;
+  height: 3.2rem;
   background: white var(--switch-bg-url) no-repeat center;
   border: 0;
   border-radius: 50%;
@@ -89,8 +94,8 @@ body * {
 
 #switch span {
   display: block;
-  width: 64px;
-  height: 24px;
+  width: 6.4rem;
+  height: 2.4rem;
 
   background: var(--surface-color);
   border: 1px solid var(--stroke-color);
@@ -104,9 +109,9 @@ ul {
 
   display: flex;
   flex-direction: column;
-  gap: 16px;
+  gap: 1.6rem;
 
-  padding: 24px 0;
+  padding: 2.4rem 0;
 }
 
 ul li a {
@@ -114,11 +119,11 @@ ul li a {
   align-items: center;
   justify-content: center;
 
-  padding: 16px 24px;
+  padding: 1.6rem 2.4rem;
 
   background: var(--surfice-color);
   border: 1px solid var(--stroke-color);
-  border-radius: 8px;
+  border-radius: 0.8rem;
 
   backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur(4px);
@@ -138,16 +143,16 @@ ul li a:hover {
   display: flex;
   justify-content: center;
 
-  padding: 24px 0;
+  padding: 2.4rem 0;
 
-  font-size: 24px;
+  font-size: 2.4rem;
 }
 
 #social-links a {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 16px;
+  padding: 1.6rem;
 
   transition: background 0.2s;
   border-radius: 50%;
