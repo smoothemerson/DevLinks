@@ -30,10 +30,6 @@ This project was developed with the following technologies:
 
 Exclusive and free program, promoted by Rocketseat for teaching WEB technologies.
 
-DevLinks is a link aggregator to use as an online business card.
-
-- [Access the finished project, online](https://smoothemerson.github.io/Discover/)
-
 - [Attend classes](https://www.rocketseat.com.br/discover)
 
 ## 🔖 Layout
